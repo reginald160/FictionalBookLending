@@ -1,0 +1,5 @@
+﻿#terraform.tfvars
+AWS_REGION = "us-east-1"
+AWS_ACCESS_KEY_ID = "<Your AWS_ACCESS_KEY_ID>"
+AWS_SECRET_ACCESS_KEY = "Your AWS_SECRET_ACCESS_KEY"
+

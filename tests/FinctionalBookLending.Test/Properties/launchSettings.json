@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FinctionalBookLending.Test": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
